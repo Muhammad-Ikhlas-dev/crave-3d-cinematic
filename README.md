@@ -1,23 +1,4 @@
 # CRAVE // 60 FPS Scroll-Driven Cinematic 3D Food Experience
-
-<p align="center">
-  <img src="./public/favicon.ico" alt="CRAVE Logo" width="64" height="64" />
-</p>
-
-<p align="center">
-  <strong>An award-caliber, scroll-driven interactive culinary web experience.</strong><br>
-  Built with <strong>Next.js 15</strong>, <strong>React 19</strong>, <strong>GSAP ScrollTrigger</strong>, <strong>HTML5 Canvas</strong>, and <strong>Lenis Smooth Scroll</strong>.<br>
-  <em>Engineered and vibe coded using autonomous agent loop protocols.</em>
-</p>
-
-<p align="center">
-  <a href="#features">Features</a> •
-  <a href="#architecture">Architecture</a> •
-  <a href="#the-10-canvas-pipeline">Canvas Pipeline</a> •
-  <a href="#agentic-vibe-coding">Vibe Coding Spec</a> •
-  <a href="#getting-started">Getting Started</a>
-</p>
-
 ---
 
 ## Overview
